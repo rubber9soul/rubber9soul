@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rubber9soul.github.io</id>
     <title>不足为琦</title>
-    <updated>2020-03-25T06:40:30.688Z</updated>
+    <updated>2020-03-25T06:43:37.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rubber9soul.github.io"/>
     <link rel="self" href="https://rubber9soul.github.io/atom.xml"/>
@@ -128,7 +128,7 @@
         <link href="https://rubber9soul.github.io/post/guan-yu/">
         </link>
         <updated>2020-03-25T05:56:18.000Z</updated>
-        <content type="html"><![CDATA[<p><strong>关于我</strong></p>
+        <content type="html"><![CDATA[<p><strong>关于我：</strong></p>
 <p>名字里有一个「琦」，网络 ID rubber9soul，互联网世界的一个小节点，前极客公园极客之选主编，目前是独立撰稿人。</p>
 <p><strong>在这里能找到我：</strong></p>
 <p>社交媒体：搜索 rubber9soul</p>
